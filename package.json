@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "preinstall": "npm_config_yes=true npx github:DCI-EdTech/autograding-setup --no",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "rewire": "^5.0.0"
+  }
+}
