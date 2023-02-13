@@ -18,7 +18,7 @@
 
 function greetMessage(user){
 
-    console.log(`Guten Morgen, ${user}`);
+    console.log(`Good Morning, ${user}`);
 
 }
 
